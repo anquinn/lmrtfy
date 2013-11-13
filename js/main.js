@@ -1,3 +1,10 @@
+/* 
+ * lmrtfy
+ * main.js 
+ * Author: Andrew Quinn
+ *
+*/
+
 $(function(){
 	var searchVal;
 	var url;
